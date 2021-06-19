@@ -1,6 +1,6 @@
 # Bertholdo - Teste Seleção Desenvolvedor Back-end Jr
 <div align="center">
-<img src="./gifs/elofy.gif" width="50%"/>
+<img src="./img/bertholdo.jpg" width="50%"/>
 </div>
 
 - Este projeto foi desenvolvido para atender aos requisitos do processo seletivo da Bertholdo. A Stack escolhida para o desenvolvimento do projeto foi PHP com Bootstrap.
