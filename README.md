@@ -66,6 +66,6 @@ Abaixo serão descritos os erros encontrados no código fonte inicial.
 - [x] Buscar endereço pelo CEP
 - [x] Adequação à um Padrão de Projeto
 - [ ] Autopreenchimento utilizando JQuery
-
+- [ ] Validação da entrada do CEP (garantir que o usuário digitará apenas números)
 
 
