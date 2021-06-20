@@ -50,8 +50,8 @@ Serão considerados como diferenciais:
 ## Descrição dos erros encontrados
 Abaixo serão descritos os erros encontrados no código fonte inicial.
 <img src="./codigo original.PNG" width="100%"/>
-
-
+- Erro 1. Linha 5 - Action errada. Foi necessário colocar o caminho e arquivo correto para corrigir o erro e enviar os dados do formulário.
+- Erro 2. Linha 18 - variavel de entrada da função get_address está errada. O nome correto da variável é $cep.
 
 ## Futuras implementações
 - [x] Buscar endereço pelo CEP
