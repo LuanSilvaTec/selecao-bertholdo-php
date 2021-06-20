@@ -46,6 +46,13 @@ Serão considerados como diferenciais:
 - Utilização de framework.
 - Entrega por Git.
 
+
+## Descrição dos erros encontrados
+Abaixo serão descritos os erros encontrados no código fonte inicial.
+
+
+
+
 ## Futuras implementações
 - [x] Buscar endereço pelo CEP
 - [x] Adequação à um Padrão de Projeto
