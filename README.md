@@ -53,8 +53,8 @@ Abaixo serão descritos os erros encontrados no código fonte inicial.
 <img src="./codigo original.PNG" width="100%"/>
 - Erro 1. Linha 5 - Action errada. Foi necessário colocar o caminho e arquivo correto para corrigir o erro e enviar os dados do formulário.
 - Erro 2. Linha 18 - variavel de entrada da função get_address está errada. O nome correto da variável é $cep.
-- Erro 3. Linha 21 - nome da variavel "address" e a variavel "logradouro" está errado. 
-- Erro 4. Linha 23 - nome da variavel "address" está errada.
+- Erro 3. Linha 21 - nome da variavel "addres" e a variavel "logradoro" está errado. 
+- Erro 4. Linha 23 - nome da variavel "adress" está errada.
 - Erro 5. Linha 30 - está faltando barra invertida na url de busca da API. 
 - Erro 6. Linha 3 - estrutura do HTML está "errada" (Faltando a tag HEAD).
 - Erro 7. Linha 5 - estrutura Form sem tag de fechamento.
