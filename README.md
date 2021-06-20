@@ -49,7 +49,7 @@ Serão considerados como diferenciais:
 
 ## Descrição dos erros encontrados
 Abaixo serão descritos os erros encontrados no código fonte inicial.
-<img src="./img/codigo original.PNG" width="100%"/>
+<img src="./codigo original.PNG" width="100%"/>
 
 
 
