@@ -59,6 +59,9 @@ Abaixo serão descritos os erros encontrados no código fonte inicial.
 - Erro 6. Linha 3 - estrutura do HTML está "errada" (Faltando a tag HEAD).
 - Erro 7. Linha 5 - estrutura Form sem tag de fechamento.
 
+## Execução do projeto
+- O arquivo principal do projeto (index.php) está na pasta teste_php_luan.
+
 ## Futuras implementações
 - [x] Buscar endereço pelo CEP
 - [x] Adequação à um Padrão de Projeto
