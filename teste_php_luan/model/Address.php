@@ -8,9 +8,7 @@ class Address
     private $bairro;
     private $estado;
 
-    public function Address()
-    {
-    }
+
 
     /*public function Address($cep, $rua, $bairro, $estado)
     {
@@ -57,8 +55,9 @@ class Address
 
 
     public function get_address($cep){
-        $this.$cep = preg_replace("/[^0-9]/", "", $this.$cep);
-        $this.$url = "http://viacep.com.br/ws/$this.$cep/xml/";
+        //var_dump($cep);
+        $this->$cep = preg_replace("/[^0-9]/", "", $cep);
+        $url = "http://viacep.com.br/ws/".$cep."/xml/";
 
 
         //simplexml_load_file — Interpreta um arquivo XML e o transforma em um objeto

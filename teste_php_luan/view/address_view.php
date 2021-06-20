@@ -11,10 +11,23 @@ $addresses=$_REQUEST['addresses'];
     <title> MEU CEP </title>
 </head>
 <body>
-<div>
-    <?php foreach ($addresses as $address): ?>
-    <?php echo $address->getRua(); ?>
-    <?php endforeach;?>
+<div name="externa" style="align-items: center;display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center; padding: inherit">
+    <div class="badge bg-primary text-wrap" style="margin: auto;width: 50%; justify-content: center">
+        <div style="display:flex;flex-direction: row; flex-wrap: wrap; position: relative; justify-content: center; padding: inherit">
+            <div class="header-cep" style="padding: 10px">
+                <p style="font-family: 'Arial Black';font-size: 30px">MEU CEP</p>
+            </div>
+            <div style="padding: 10px">
+                <img src="../utils/bertholdo.jpg" style="width: 60px"/>
+            </div>
+        </div>
+        <div>
+            <p>CEP:<?php echo $addresses->cep?></p>
+            <p>ESTADO:<?php echo $addresses->uf?></p>
+            <p>ENDEREÇO:<?php echo $addresses->logradouro?></p>
+            <p>BAIRRO:<?php echo $addresses->bairro?></p>
+        </div>
+    </div>
 </div>
 </body>
 </html>
