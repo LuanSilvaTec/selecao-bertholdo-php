@@ -12,6 +12,7 @@
 
 ## Padrão de Projeto
 1. Padrão MVC
+ - Foi utilizado o Padrão MVC (Model, View e Controller) para reorganizar o projeto, conforme código fonte disponível. Foi utilizado a IDE PHPStorm.
 
 ## Descrição da tarefa
 O objetivo dessa etapa é encontrar, corrigir os erros e aperfeiçoar o programa PHP disponibilizado.
